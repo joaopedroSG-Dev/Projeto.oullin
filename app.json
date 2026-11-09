@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Oullin",
+    "slug": "oullin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#fffdf9"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#fffdf9"
+      },
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
